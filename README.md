@@ -1,5 +1,3 @@
-Aqui está um exemplo de um arquivo "README.md" para o seu projeto FilmesAPI. Lembre-se de personalizar as informações de acordo com as necessidades do seu projeto:
-
 # FilmesAPI
 
 Este é um projeto de API para gerenciamento de informações relacionadas a cinemas e filmes.
